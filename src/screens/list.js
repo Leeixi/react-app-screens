@@ -1,20 +1,15 @@
-import React from 'react'
-import Users from "../users"
+// import React from 'react'
+// import Users from "../users"
 
-export class App extends Component {
+// export class App extends Component {
 
-    componentDidMount(){
-        console.log(Users)
-    }
+//   render() {
+//     return (
+//       <div>
 
-  render() {
-    return (
-      <div>
-        
-      </div>
-    )
-  }
-}
+//       </div>
+//     )
+//   }
+// }
 
-export default App
-
+// export default App
