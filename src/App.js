@@ -13,7 +13,7 @@ export class App extends Component {
           <Route path='/list'>
             <List />
           </Route>
-          <Route path='/about'>
+          <Route path='/form'>
             <Form />
           </Route>
           <Route path='/table'>
