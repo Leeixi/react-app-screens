@@ -2,7 +2,15 @@ import React, { Component } from 'react'
 
 class Header extends Component {
   render() {
-    return <div></div>
+    return (
+    <div> 
+      <h1> 
+        {
+          this.props.naslov
+        }
+      </h1>
+    </div>
+   );
   }
 }
 
