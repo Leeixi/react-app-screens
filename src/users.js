@@ -1,3 +1,6 @@
+
+export default class Persons {
+  static users = 
 [
   {
     "userId": "rirani",
@@ -143,3 +146,4 @@
     "emailAddress": "dwillcock9@moonfruit.com"
   }
 ]
+}
