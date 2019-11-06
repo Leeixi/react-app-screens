@@ -6,7 +6,7 @@ class Header extends Component {
     <div> 
       <h1> 
         {
-          this.props.naslov
+          this.props.title
         }
       </h1>
     </div>

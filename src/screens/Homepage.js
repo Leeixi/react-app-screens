@@ -4,7 +4,7 @@ import Header from '../components/JS/Header'
 class Homepage extends Component {
   render() {
     return <div>
-      <Header naslov="Homepage"/>
+      <Header title="Homepage"/>
     </div>
   }
 }
